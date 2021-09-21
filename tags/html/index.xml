@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on 小李的Blog&#39;s</title>
+    <link>https://weihsuan829.github.io/tags/html/</link>
+    <description>Recent content in HTML on 小李的Blog&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 20 Sep 2021 23:50:47 +0800</lastBuildDate><atom:link href="https://weihsuan829.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ｍarkdown語法介紹</title>
+      <link>https://weihsuan829.github.io/blog/markdown%E8%AA%9E%E6%B3%95%E4%BB%8B%E7%B4%B9/</link>
+      <pubDate>Mon, 20 Sep 2021 23:50:47 +0800</pubDate>
+      
+      <guid>https://weihsuan829.github.io/blog/markdown%E8%AA%9E%E6%B3%95%E4%BB%8B%E7%B4%B9/</guid>
+      <description>歡迎來到小李的Blog&amp;rsquo;s
+ 今天要介紹的是：Markdown語法
+  標題用法 分為六種標題大小
+  使用符號：六個# (最小標題)</description>
+    </item>
+    
+    <item>
+      <title>測試文章</title>
+      <link>https://weihsuan829.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://weihsuan829.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
